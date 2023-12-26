@@ -17,6 +17,7 @@ Feel free to try it!
 
 ```
 git clone https://github.com/ContractorBlock/foundry-fund-me
+cd foundry
 cd foundry-fund-me
 forge build
 ```
